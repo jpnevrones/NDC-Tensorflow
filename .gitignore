@@ -2,3 +2,6 @@
 *.csv
 UNet\.ipynb_checkpoints\*.IPYNB
 UNet/.ipynb_checkpoints/*.ipynb
+*.h5
+UNet/model-dsbowl2018-1.h5
+*.h5
