@@ -1,2 +1,4 @@
 *.PNG
 *.csv
+UNet\.ipynb_checkpoints\*.IPYNB
+UNet/.ipynb_checkpoints/*.ipynb
