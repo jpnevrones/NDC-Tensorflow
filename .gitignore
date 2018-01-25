@@ -3,5 +3,8 @@
 UNet\.ipynb_checkpoints\*.IPYNB
 UNet/.ipynb_checkpoints/*.ipynb
 *.h5
+<<<<<<< HEAD
 UNet/model-dsbowl2018-1.h5
 *.h5
+=======
+>>>>>>> JP
